@@ -23,3 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+## Important
+
+This is a local cap project therefore to have a db to hold data you need to generate sqlite database
